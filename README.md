@@ -24,9 +24,9 @@ tools and research utilities will be published through GitHub Releases.
 
 ## Status
 
-- * Done
-- - Soon
-- ! Researching
+- `*` Done
+- `-` Soon
+- `!` Researching
 
 ---
 
